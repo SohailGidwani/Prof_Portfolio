@@ -23,7 +23,7 @@
   );
   --bg-gradient-yellow-2: linear-gradient(
     135deg, 
-    hsla(45, 100%, 50%, 0.251) 0%, 
+    hsla(179, 81%, 53%, 0.818) 0%, 
     hsla(35, 100%, 68%, 0) 59.86%
   ), hsl(240, 8%, 97%);
   --border-gradient-onyx: linear-gradient(
